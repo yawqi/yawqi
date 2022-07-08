@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawqi&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+Just a newbie coder, currently learning Rust.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawqi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
